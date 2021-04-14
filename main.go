@@ -2,15 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/cncodetube/faker"
-	"github.com/google/uuid"
+	exclude "github.com/cncodetube/course-go-pkg-module-exclude"
 	_ "golang.org/x/text"
 )
 
 func main() {
-	id := uuid.New().String()
-	fmt.Println(id)
-
-	faker := faker.New()
-	fmt.Println(faker.Name())
+	fmt.Println(exclude.GetUUID())
 }

@@ -1,5 +1,7 @@
+github.com/cncodetube/course-go-pkg-module-exclude v1.0.0 h1:m+KjQf6brva8MuMwcmLhtMSkiX5KVoRwNlaWPBe18XA=
+github.com/cncodetube/course-go-pkg-module-exclude v1.0.0/go.mod h1:al6xY8BHUgF0TAAtM0cx4J5/BFs8E9ScNDj/hcncMvs=
 github.com/golang/text v0.3.6 h1:hu9eqhiItWEGEp+O+w2aQCZir/xosGWOD/Tm1fj+Yog=
 github.com/golang/text v0.3.6/go.mod h1:5Zoc/QRtKVWzQhOtBMvqHzDpF6irO9z98xDceosuGiQ=
-github.com/google/uuid v1.2.0 h1:qJYtXnJRWmpe7m/3XlyhrsLrEURqHRM2kxzoxXqyUDs=
-github.com/google/uuid v1.2.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/google/uuid v1.1.5 h1:kxhtnfFVi+rYdOALN0B3k9UT86zVJKfBimRaciULW4I=
+github.com/google/uuid v1.1.5/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
